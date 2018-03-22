@@ -1,0 +1,19 @@
+body {
+color: #cda960;
+background: #272727; }
+
+h1 {
+  color: #ad692d;  }
+h2 {
+  color: #FFFFFF ;
+  background: #5f6c3a;
+  padding : 5px ; } 
+
+.formula {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;}
+
+p.definition {
+  border: 1px solid #FFFFFF;
+  padding : 10px ;}
